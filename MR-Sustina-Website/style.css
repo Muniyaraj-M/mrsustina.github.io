@@ -1,0 +1,38 @@
+
+body {
+font-family: Arial;
+margin: 0;
+background-color: #f4f4f4;
+}
+
+header {
+background: green;
+color: white;
+padding: 15px;
+text-align: center;
+}
+
+nav a {
+margin: 10px;
+color: white;
+text-decoration: none;
+font-weight: bold;
+}
+
+section {
+padding: 20px;
+background: white;
+margin: 15px;
+border-radius: 10px;
+}
+
+footer {
+background: #333;
+color: white;
+text-align: center;
+padding: 10px;
+}
+
+.hero {
+background-color: #d4f7d4;
+}
